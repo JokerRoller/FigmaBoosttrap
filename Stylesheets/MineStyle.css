@@ -294,6 +294,8 @@ body {
 .banner4_custom {
     width: 550.4587155963303px;
     height: 456.1376146788991px;
+    position: relative;
+    right: 75px;
 }
 .srow4_custom {
     width: 1082.56px;
@@ -305,16 +307,255 @@ body {
 }
 /* ===================Section 4==================== */
 /* ===================Section 5==================== */
-
+.scontainer5_custom {
+    margin-top: 201.8348623853211px;
+}
+.srow5_custom {
+    width: 1082.56880733945px;
+    height: 372.5504587155963px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 105px;
+}
+.banner5_custom {
+    width: 550.4587155963303px;
+    height: 372.5504587155963px;
+}
+.sh4_custom {
+    font-family: Playfair Display;
+    font-size: 55.04587155963303px;
+    font-weight: 700;
+    line-height: 58.71559633027523px;
+    letter-spacing: -1px;
+    text-align: left;
+    color: #2F2E41;
+}
+.sp4_custom {
+    font-family: Open Sans;
+    font-size: 18.34862385321101px;
+    font-weight: 400;
+    line-height: 31.19266055045872px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #9893A3;
+}
+.sa4_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 600;
+    line-height: 18.34862385321101px;
+    letter-spacing: -1px;
+    text-align: left;
+    color: #2F2E41;
+    text-decoration: none;
+}
 /* ===================Section 5==================== */
 /* ===================Section 6==================== */
-
+.scontainer6_custom {
+    margin-top: 201.8348623853211px;
+}
+.srow6_custom {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 25px;
+}
+.sh5_custom {
+    font-family: Playfair Display;
+    font-size: 55.05px;
+    font-weight: 700;
+    line-height: 58.72px;
+    letter-spacing: -1px;
+    text-align: left;
+    color: #2F2E41;
+}
 /* ===================Section 6==================== */
 /* ===================Section 7==================== */
-
+.scontainer7_custom {
+    margin-top: 82.56880733944954px;
+}
+.srow7_custom {
+    display: flex;
+    justify-content: center;
+}
+.s7col-3_custom {
+    position: relative;
+    text-align: center;
+    margin-top: 80px;
+    right: 60px;
+}
+.sp6_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 400;
+    line-height: 23.85321100917431px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #717082;
+}
+.sh6_custom {
+    font-family: Open Sans;
+    font-size: 45.87155963302752px;
+    font-weight: 700;
+    line-height: 75.37614678899083px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #2F2E41;
+}
+.sp7_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #717082;
+}
+.sb7_custom {
+    font-family: Open Sans;
+    font-size: 12.84403669724771px;
+    font-weight: 700;
+    line-height: 17.43119266055046px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #6C63FF;
+    background-color: #F2F2F2;
+    border: 1px solid #6C63FF;
+    width: 128.4403669724771px;
+    height: 46.78899082568807px;
+    margin-top: 15px;
+}
+.sb7_custom:hover {
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(108,99,255,0.3); 
+    box-shadow: 5px 5px 15px 5px rgba(108,99,255,0.3);
+}
+.s7col-4_custom {
+    background-color: #6C63FF;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 460.5504587155963px;
+    width: 333.0275229357798px;
+}
+.sp8_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 400;
+    line-height: 23.85321100917431px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 64.22018348623853px;
+    margin-bottom: 0;
+}
+.sp9_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 400;
+    line-height: 23.85321100917431px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 36.69724770642202px;
+    margin-bottom: 0;
+}
+font {
+    font-family: Open Sans;
+    font-size: 45.87155963302752px;
+    font-weight: 700;
+    line-height: 51.37614678899083px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.sp10_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 36.69724770642202px;
+    margin-bottom: 0;
+}
+.sb8_custom {
+    font-family: Open Sans;
+    font-size: 14.67889908256881px;
+    font-weight: 700;
+    line-height: 20.18348623853211px;
+    letter-spacing: 0px;
+    text-align: center;
+    width: 170.6422018348624px;
+    height: 49.54128440366972px;
+    border: none;
+    color: #6c63ff;
+    margin-top: 36.69724770642202px;
+    margin-bottom: 0;
+}
+.sb8_custom:hover {
+    -moz-transform: scale(1.1) rotate(360deg);
+    -webkit-transform: scale(1.1) rotate(360deg);
+    -o-transform: scale(1.1) rotate(360deg);
+    -ms-transform: scale(1.1) rotate(360deg);
+    transform: scale(1.1) rotate(360deg);
+}
+.s7col-5_custom {
+    display: flex;
+    justify-content: top;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+    left: 60px;
+    position: relative;
+}
+.sp11_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 400;
+    line-height: 23.85321100917431px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #717082;
+    margin-bottom: 28px;
+}
+.sp12_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 400;
+    line-height: 23.85321100917431px;
+    letter-spacing: 0px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.sp13_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 400;
+    line-height: 34.85321100917431px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #717082;
+}
+.sb9_custom {
+    font-family: Open Sans;
+    font-size: 12.84403669724771px;
+    font-weight: 700;
+    line-height: 17.43119266055046px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #6C63FF;
+    background-color: #F2F2F2;
+    border: 1px solid #6C63FF;
+    width: 128.4403669724771px;
+    height: 46.78899082568807px;
+    margin-top: 15px;
+}
 /* ===================Section 7==================== */
 /* ===================Section 8==================== */
-
+.scontainer8_custom {
+    margin-top: 201.84px;
+}
 /* ===================Section 8==================== */
 /* ===================Section 9==================== */
 
