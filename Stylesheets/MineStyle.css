@@ -14,10 +14,10 @@ body {
     font-weight: 400;
     line-height: 20.18px;
     letter-spacing: 0em;
-    text-align: left;
-    opacity: 0.7;
+    text-align: left; 
     position: relative;
     cursor: pointer;
+    color: #9893a3;
 }
 .hli_custom::after {
     content: '';
@@ -141,7 +141,7 @@ body {
     line-height: 31.19266055045872px;
     letter-spacing: 0px;
     text-align: left;
-    opacity: 0.7;
+    color: #9893a3;
 }
 .sb_custom {
     width: 128.4403669724771px;
@@ -213,10 +213,96 @@ body {
 }
 /* ===================Section 2==================== */
 /* ===================Section 3==================== */
-
+.scontainer3_custom {
+    margin-top: 201.83px;
+}
+.srow3_custom {
+    width: 1082.56880733945px;
+    height: 406.2201834862385px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 107px;
+}
+.banner3_custom {
+    width: 550.4587155963303px;
+    height: 406.2201834862385px;
+}
+.sh2_custom {
+    font-family: Playfair Display;
+    font-size: 55.04587155963303px;
+    font-weight: 700;
+    line-height: 58.71559633027523px;
+    letter-spacing: -1px;
+    text-align: left;
+}
+.sp2_custom {
+    font-family: Open Sans;
+    font-size: 18.34862385321101px;
+    font-weight: 400;
+    line-height: 31.19266055045872px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #9893a3;
+}
+.sa2_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 600;
+    line-height: 18.34862385321101px;
+    letter-spacing: -1px;
+    text-align: left;
+    color: #2F2E41;
+    text-decoration: none;
+}
+.s3col-4_custom {
+    position: relative;
+    left: 25px;
+}
 /* ===================Section 3==================== */
 /* ===================Section 4==================== */
-
+.scontainer4_custom {
+    margin-top: 201.8348623853211px;
+}
+.sh3_custom {
+    font-family: Playfair Display;
+    font-size: 55.04587155963303px;
+    font-weight: 700;
+    line-height: 58.71559633027523px;
+    letter-spacing: -1px;
+    text-align: left;
+}
+.sp3_custom {
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #9893A3;
+}
+.sa3_custom {
+    font-family: Open Sans;
+    font-size: 16.51376146788991px;
+    font-weight: 600;
+    line-height: 18.34862385321101px;
+    letter-spacing: -1px;
+    text-align: left;
+    color: #2F2E41;
+    text-decoration: none;
+}
+.banner4_custom {
+    width: 550.4587155963303px;
+    height: 456.1376146788991px;
+}
+.srow4_custom {
+    width: 1082.56px;
+    height: 406.2201834862385px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 112px;
+}
 /* ===================Section 4==================== */
 /* ===================Section 5==================== */
 
